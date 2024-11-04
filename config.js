@@ -1,3 +1,4 @@
+console.log("config.js");
 const config = {
   firebase: {
     apiKey: '',
