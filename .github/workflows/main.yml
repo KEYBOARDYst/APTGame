@@ -5,6 +5,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   inject-config:
     runs-on: ubuntu-latest
@@ -38,7 +41,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./ # 루트 디렉토리를 설정
-
-          # 아래 옵션을 사용해 main 브랜치가 아닌 gh-pages 브랜치에 배포
+          publish_dir: ./
           publish_branch: gh-pages
