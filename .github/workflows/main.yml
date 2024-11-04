@@ -34,4 +34,4 @@ jobs:
             },
           };" > ./config.js
       - name: Deploy to GitHub Pages
-        run: npm run deploy
+        run: "gh-pages -d build
