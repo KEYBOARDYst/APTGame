@@ -33,3 +33,5 @@ jobs:
               measurementId: '${FIREBASE_MEASUREMENT_ID}',
             },
           };" > ./config.js
+      - name: Deploy to GitHub Pages
+        run: npm run deploy
