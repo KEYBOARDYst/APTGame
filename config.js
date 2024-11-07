@@ -1,4 +1,4 @@
-console.log("config.js");
+console.log("키보디st가 좋아하는 랜덤 게임~! 아파트 아파트");
 const config = {
   firebase: {
     apiKey: 'AIzaSyCb-QYB5R3FliwVc83ZebW00cBWgiKRsCE',
