@@ -1,9 +1,9 @@
-# 아파트 게임
+# 🏢 아파트 게임
 
 ## 링크
 
 - 배포 링크: [아파트 게임 시작하기](https://keyboardyst.github.io/APTGame/)
-- 튜토리얼 영상: [아파트 게임 만들기](https://www.youtube.com)
+- 제작 영상: [아파트 게임 만들기](https://www.youtube.com/watch?v=1Nk9rGDYhiw&t=99s)
 
 ## 기능 설명
 
