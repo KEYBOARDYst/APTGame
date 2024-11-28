@@ -10,10 +10,12 @@ body {
   background-position: center;
   position: relative;
   overflow: hidden;
+  font-family: "Bungee", "Gugi", sans-serif;
 }
 
 button {
   padding: 12px 30px;
+  font-family: "Bungee", "Gugi", sans-serif;
   font-size: 20px;
   cursor: pointer;
   border: none;
